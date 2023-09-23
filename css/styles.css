@@ -742,7 +742,6 @@ border-bottom: 1px solid #e7e9fc
     font-weight: 500;
     line-height: 1.5;     
     letter-spacing: 0.02em;
-    margin-top: 24px;
     margin-bottom: 16px;
 }
 .irea{
@@ -769,10 +768,6 @@ border-bottom: 1px solid #e7e9fc
     justify-content: center;
     align-items: center;
     fill: transparent;
-}
-.checkboks-icon{
-    width: 16px;
-    height: 16px;
 }
 
 .modal-checkbox-input:checked{
