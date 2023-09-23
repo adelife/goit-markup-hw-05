@@ -787,6 +787,10 @@ border-bottom: 1px solid #e7e9fc
     margin-top: 24px;
     margin-bottom: 24px;
 }
+.button-modal:hover,
+.button-modal:focus{
+fill: #ffffff
+}
 .privacy-checkboks{
     color:#4d5ae5;
 }
