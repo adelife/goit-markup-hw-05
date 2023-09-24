@@ -559,7 +559,10 @@ border-bottom: 1px solid #e7e9fc
 }
 .footer-button-svg{
     position: absolute;
-    margin-left:16px;
+    
+}
+.footer-svg{
+    margin-left: 16px;
 }
 .wrap-button{
     position: relative;
